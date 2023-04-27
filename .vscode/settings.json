@@ -1,0 +1,28 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorCustomizations": {
+        // "activityBar.background": "#1d1d1d",
+        // // "sideBar.background": "#1e251e",
+        // "minimap.background": "#1d1d1f",
+        // "editor.background": "#1d1d1f"
+
+        
+        // blue
+        "activityBar.background": "#181820",
+        "sideBar.background": "#262630",
+        "minimap.background": "#101018",
+        "editor.background": "#181820",
+
+        // //green
+        "activityBar.background": "#182020",
+        "sideBar.background": "#252e2e",
+        "minimap.background": "#0d1414",
+        "editor.background": "#182020",
+
+        // //green2
+        "activityBar.background": "#0d1414",
+        "sideBar.background": "#151f1f",
+        "minimap.background": "#0a1111",
+        "editor.background": "#0d1414",
+    }
+}
